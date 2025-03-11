@@ -9,13 +9,6 @@ A console-based chess game in Python.
 - Turn-based input system.
 - Visual grid display with coordinate labels to help you move pieces.
 
-## How to Play
-
-## Run the Game 
-   In your terminal, run:
-   ```bash
-   python chess_game.py
-
 ## Viewing the Board 
 The board is displayed with row and column numbers. 
       0  1  2  3  4  5  6  7
@@ -38,3 +31,10 @@ Type: 1 4 3 4
 
 ## Quit the Game
 Type q when prompted to exit.
+
+## Run the Game 
+   In your terminal, run:
+   ```bash
+   python chess_game.py
+
+
